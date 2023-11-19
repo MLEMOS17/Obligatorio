@@ -1,0 +1,10 @@
+Pillow
+pandas
+numpy==1.24.3
+fastapi
+uvicorn
+typing-extensions==4.8.0
+pydantic
+tensorflow
+keras==2.13.1
+python-multipart
